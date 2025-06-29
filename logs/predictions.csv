@@ -1,0 +1,27 @@
+Location,Crop,Growth_Stage,Temperature,Humidity,Rainfall_2d,Wind_Speed,Pest_Infestation,Last_Spray,Predicted_Spray,Timestamp
+Mysore,Wheat,Seedling,22.87,82.71,0.1,14.59,10,None,Unknown Spray (Invalid Input),6/29/2025 19:17
+Mysore,Wheat,Flowering,22.87,82.71,0.1,14.59,29,Fertilizer,Fertilizer,6/29/2025 19:17
+Mysore,Wheat,Seedling,22.87,82.71,0.1,14.59,10,None,Unknown Spray (Invalid Input),6/29/2025 19:23
+Mysore,Rice,Vegetative,22.87,82.71,0.1,14.59,20,Fertilizer,Fungicide,6/29/2025 19:34
+Hunsur,Rice,Vegetative,22.14,86.21,0,13.17,20,Fertilizer,Fungicide,6/29/2025 19:38
+Hunsur,Rice,Vegetative,22.14,86.21,0,13.17,20,Pesticide,Fungicide,6/29/2025 19:39
+Hunsur,Rice,Seedling,22.14,86.21,0,13.17,20,None,Unknown Spray (Invalid Input),6/29/2025 19:39
+Mysore,Rice,Seedling,22.87,82.71,0.1,14.59,30,No spray,Unknown Spray (Invalid Input),6/29/2025 19:46
+Mysore,Rice,Vegetative,22.87,82.71,0.1,14.59,30,No Spray,Fungicide,6/29/2025 19:48
+Mysore,Rice,Mature,22.87,82.71,0.1,14.59,30,No Spray,Fungicide,6/29/2025 19:49
+Mysore,Rice,Mature,22.87,82.71,0.1,14.59,30,No Spray,Fungicide,6/29/2025 19:49
+Mysore,Rice,Mature,22.87,82.71,0.1,14.59,30,Fungicide,Fertilizer,6/29/2025 19:49
+Mysore,Rice,Mature,22.87,82.71,0.1,14.59,30,Fertilizer,Fungicide,6/29/2025 19:49
+Mysore,Rice,Fruiting,22.87,82.71,0.1,14.59,13,No Spray,Unknown Spray (Invalid Input),6/29/2025 19:49
+Mysore,Wheat,Flowering,22.87,82.71,0.1,14.59,10,No Spray,Fertilizer,6/29/2025 19:54
+Hunsur,Rice,Seedling,22.14,86.21,0,13.17,50,No Spray,Fungicide,6/29/2025 19:58
+Hunsur,Rice,Vegetative,22.14,86.21,0,13.17,50,No Spray,Fungicide,6/29/2025 19:58
+Hunsur,Rice,Vegetative,22.14,86.21,0,13.17,80,No Spray,Fungicide,6/29/2025 19:59
+Hunsur,Rice,Vegetative,22.14,86.21,0,13.17,80,Fungicide,Fungicide,6/29/2025 19:59
+Hunsur,Rice,Vegetative,22.14,86.21,0,13.17,20,Fertilizer,Fungicide,6/29/2025 19:59
+Hunsur,Rice,Vegetative,22.14,86.21,0,13.17,5,Fungicide,Fungicide,6/29/2025 19:59
+Hunsur,Rice,Flowering,22.14,86.21,0,13.17,5,Fungicide,Fungicide,6/29/2025 19:59
+Hunsur,Rice,Mature,22.14,86.21,0,13.17,5,Fungicide,Fertilizer,6/29/2025 19:59
+Mandya,Sugarcane,Mature,24.05,76.92,0,15.68,5,Fungicide,Unknown Spray (Invalid Input),6/29/2025 20:02
+Mandya,Wheat,Mature,24.05,76.92,0.0,15.68,5,Fungicide,Fertilizer,2025-06-29 20:04:37
+Mandya,Wheat,Seedling,24.05,76.92,0.0,15.68,5,No Spray,No Spray,2025-06-29 20:05:10

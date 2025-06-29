@@ -25,3 +25,11 @@ Hunsur,Rice,Mature,22.14,86.21,0,13.17,5,Fungicide,Fertilizer,6/29/2025 19:59
 Mandya,Sugarcane,Mature,24.05,76.92,0,15.68,5,Fungicide,Unknown Spray (Invalid Input),6/29/2025 20:02
 Mandya,Wheat,Mature,24.05,76.92,0.0,15.68,5,Fungicide,Fertilizer,2025-06-29 20:04:37
 Mandya,Wheat,Seedling,24.05,76.92,0.0,15.68,5,No Spray,No Spray,2025-06-29 20:05:10
+Mandya,Wheat,Seedling,24.05,76.92,0.0,15.68,40,No Spray,No Spray,2025-06-29 20:08:10
+Mandya,Wheat,Vegetative,24.05,76.92,0.0,15.68,40,No Spray,No Spray,2025-06-29 20:08:20
+Mandya,Wheat,Vegetative,24.05,76.92,0.0,15.68,60,No Spray,No Spray,2025-06-29 20:08:33
+Mandya,Wheat,Vegetative,24.05,76.92,0.0,15.68,100,No Spray,No Spray,2025-06-29 20:08:42
+Mandya,Wheat,Flowering,24.05,76.92,0.0,15.68,100,No Spray,No Spray,2025-06-29 20:08:51
+Mandya,Wheat,Flowering,24.05,76.92,0.0,15.68,100,Pesticide,No Spray,2025-06-29 20:09:20
+Mandya,Wheat,Mature,24.05,76.92,0.0,15.68,100,Pesticide,Fertilizer,2025-06-29 20:09:31
+Mandya,Wheat,Mature,24.05,76.92,0.0,15.68,60,Pesticide,Fertilizer,2025-06-29 20:09:52
